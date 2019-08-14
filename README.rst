@@ -13,7 +13,8 @@ DRF EagerLoading
         :target: https://drf-eagerloading.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
 
-
+.. image:: https://img.shields.io/badge/code%20style-black-000000.svg
+    :target: https://github.com/psf/black
 
 
 Python Boilerplate contains all the boilerplate you need to create a Python package.
