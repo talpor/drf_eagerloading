@@ -7,7 +7,7 @@ DRF EagerLoading
         :target: https://pypi.python.org/pypi/drf_eagerloading
 
 .. image:: https://img.shields.io/travis/pedrojosep/drf_eagerloading.svg
-        :target: https://travis-ci.org/pedrojosep/drf_eagerloading
+        :target: https://travis-ci.org/talpor/drf_eagerloading
 
 .. image:: https://readthedocs.org/projects/drf-eagerloading/badge/?version=latest
         :target: https://drf-eagerloading.readthedocs.io/en/latest/?badge=latest
