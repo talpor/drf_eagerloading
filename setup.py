@@ -13,7 +13,7 @@ with open("HISTORY.rst") as history_file:
 
 requirements = []
 
-setup_requirements = ["pytest-runner"]
+setup_requirements = ["pytest-runner", "Django>=2.0", "djangorestframework>=3.9"]
 
 test_requirements = ["pytest"]
 
@@ -22,9 +22,14 @@ setup(
     author_email="ppinango@talpor.com",
     classifiers=[
         "Development Status :: 2 - Pre-Alpha",
+        "Environment :: Web Environment",
+        "Framework :: Django :: 2.0",
+        "Framework :: Django :: 2.1",
+        "Framework :: Django",
         "Intended Audience :: Developers",
         "License :: OSI Approved :: MIT License",
         "Natural Language :: English",
+        "Operating System :: OS Independent",
         "Programming Language :: Python :: 3",
         "Programming Language :: Python :: 3.6",
         "Programming Language :: Python :: 3.7",
@@ -43,4 +48,5 @@ setup(
     url="https://github.com/talpor/drf_eagerloading",
     version="0.0.2",
     zip_safe=False,
+    python_requires=">=3.6",
 )
