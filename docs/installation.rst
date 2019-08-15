@@ -32,13 +32,13 @@ You can either clone the public repository:
 
 .. code-block:: console
 
-    $ git clone git://github.com/pedrojosep/drf_eagerloading
+    $ git clone git://github.com/talpor/drf_eagerloading
 
 Or download the `tarball`_:
 
 .. code-block:: console
 
-    $ curl  -OL https://github.com/pedrojosep/drf_eagerloading/tarball/master
+    $ curl  -OL https://github.com/talpor/drf_eagerloading/tarball/master
 
 Once you have a copy of the source, you can install it with:
 
@@ -47,5 +47,5 @@ Once you have a copy of the source, you can install it with:
     $ python setup.py install
 
 
-.. _Github repo: https://github.com/pedrojosep/drf_eagerloading
-.. _tarball: https://github.com/pedrojosep/drf_eagerloading/tarball/master
+.. _Github repo: https://github.com/talpor/drf_eagerloading
+.. _tarball: https://github.com/talpor/drf_eagerloading/tarball/master
