@@ -6,9 +6,6 @@
 import pytest
 
 
-from drf_eagerloading import drf_eagerloading
-
-
 @pytest.fixture
 def response():
     """Sample pytest fixture.
