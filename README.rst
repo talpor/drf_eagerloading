@@ -17,7 +17,7 @@ DRF EagerLoading
     :target: https://github.com/psf/black
 
 
-Python Boilerplate contains all the boilerplate you need to create a Python package.
+Calculate prefetch_related and select_related recursively based on the definition on the serializers.
 
 
 * Free software: MIT license
