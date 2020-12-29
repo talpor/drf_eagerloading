@@ -25,6 +25,7 @@ class EagerLoadingSerializerMixin(object):
                         queryset,
                         get_field_serializer(cls, field_name),
                         f"{prefix}{field_name}",
+                        *args,
                         select_related=(field_type == "select_related_fields"),
                     )
 
