@@ -4,4 +4,4 @@
 
 __author__ = """Pedro Piñango"""
 __email__ = "ppinango@talpor.com"
-__version__ = "0.0.2"
+__version__ = "__version__ = '0.0.3'"
